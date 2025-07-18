@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+Pillow
+pdf2image
+pdfplumber
+python-bidi
+arabic-reshaper
+ctransformers
